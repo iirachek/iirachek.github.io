@@ -1,0 +1,15 @@
+[
+  {
+    "relation" : [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target" : {
+      "namespace" : "android_app",
+      "package_name" : "com.fidoalliance.passkey.conformancetools",
+      "sha256_cert_fingerprints" : [
+        "9E:DF:DF:DF:0A:EF:1E:0C:5D:F3:A3:94:64:D4:51:6E:8C:BD:0A:7C:99:80:8B:00:F2:73:71:6C:32:2F:EE:73"
+      ]
+    }
+  }
+]
